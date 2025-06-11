@@ -1,0 +1,31 @@
+name: Generate contribution snake
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '00 00 * * 0' # Runs every Sunday at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate contribution snake
+        uses: liamcr/gh-action-contribution-graph-snake@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push SVG
+        run: |
+          mv contribution-grid-snake.svg .github/output/github-contribution-grid-snake2.svg
+          git config --global user.name "Sai Kiran Tech"
+          git config --global user.email "your-email@example.com"
+          git add .github/output/github-contribution-grid-snake2.svg
+          git commit -m "Update contribution snake"
+          git push
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
