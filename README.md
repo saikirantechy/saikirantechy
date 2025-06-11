@@ -83,7 +83,7 @@ Spring Boot + Oracle DB
 
 ---
 
-## My GitHub Stats
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>&nbsp;&nbsp; My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikirantechy&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide=prs&hide_title=true&theme=radical)
 
@@ -101,7 +101,7 @@ Spring Boot + Oracle DB
 
 ## 💬 Let’s Connect
 
-### Connect With Me
+### <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = 37px>&nbsp;&nbsp; Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saikirantechy)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/saikirantechy)  
