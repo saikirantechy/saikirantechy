@@ -83,14 +83,33 @@ Spring Boot + Oracle DB
 
 ---
 
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikirantechy&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saikirantechy&theme=radical)
+
+## 💻 GitHub Profile Stats
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=saikirantechy&show_icons=true&hide_title=true&theme=radical)
+
+> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+---
+
 ## 💬 Let’s Connect
-## Connect With Me
+
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saikirantechy)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/saikirantechy)  
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/saikirantechy)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
-I’m always open to collaborating with **tech creators, startups, and student communities**.  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:saikiranbk.tech@gmail.com)
+
+I'm always open to collaborating with **tech creators, startups, and student communities**.
+
 📧 saikiranbk.tech@gmail.com  
 🌐 [linktr.ee/saikirantech](https://linktr.ee/saikirantech)
 
