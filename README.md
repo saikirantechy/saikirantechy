@@ -101,12 +101,20 @@ Spring Boot + Oracle DB
 
 ## 💬 Let’s Connect
 
-### <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = 37px>&nbsp;&nbsp; Connect With Me
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width="37px">&nbsp;&nbsp; Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saikirantechy)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/saikirantechy)  
-[![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/saikirantechy)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:saikiranbk.tech@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/saikirantechy" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="48" width="48"></a>
+<a href="https://twitter.com/saikirantechy" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" height="48" width="48"></a>
+<a href="mailto:saikiranbk.tech@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="48" width="48"></a>
+<a href="https://github.com/saikirantechy" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="48" width="48"></a>
+<a href="https://linktr.ee/saikirantech" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/internet--v1.png" height="48" width="48"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=20">
+</p>
+<br>
 
 I'm always open to collaborating with **tech creators, startups, and student communities**.
 
