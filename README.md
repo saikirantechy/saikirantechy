@@ -127,5 +127,5 @@ I'm always open to collaborating with **tech creators, startups, and student com
 
 <h3>🐍 Snake eating my contributions</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saikirantechy/saikirantechy/main/output/snake.svg" alt="Snake animation" style="border: 1px solid #c9c9cb; border-radius: 10px;">
+  <img src="https://github.com/saikirantechy/saikirantechy/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" style="border: 1px solid #c9c9cb; border-radius: 10px;">
 </p>
