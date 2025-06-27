@@ -13,7 +13,7 @@ Hi there! I’m **Sai Kiran BK**, also known as **SaiKiranTech** – a passionat
 
 As the **Founder & CEO** of **SKT Digital Marketing** and **SKT Nexus**, I’m committed to bridging the digital education gap by offering **coding, AI/ML, and tech resources** tailored to aspiring students.
 
-Beyond tech, I’m also a **motivational speaker**, having spoken at multiple colleges on topics like **career growth, mindset building**, and **AI trends**.
+I’m also a **motivational speaker**, having spoken at multiple colleges on topics like **career growth, mindset building**, and **AI trends**.
 
 ---
 
