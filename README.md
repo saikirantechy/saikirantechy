@@ -6,7 +6,10 @@
 📸 [Instagram](https://instagram.com/saikirantechy) | 📺 [YouTube](https://youtube.com/@saikirantechy) | 💼 [LinkedIn](https://linkedin.com/in/saikirantechy) | 💻 [GitHub](https://github.com/saikirantechy)
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saikirantechy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
 ## 🧠 About Me
 
 Hi there! I’m **Sai Kiran BK**, also known as **SaiKiranTech** – a passionate tech enthusiast, content creator, and founder. I create content to empower students in tech, especially from Tier 2 & Tier 3 colleges, with accessible resources in native languages.
