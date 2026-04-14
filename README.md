@@ -53,79 +53,6 @@ Empowering coding education for Tier 2 & 3 colleges
 
 ---
 
-## 🧰 Skills & Tech Stack
-
-`Languages:` Python, Java, JavaScript, HTML/CSS  
-`Frameworks:` Spring Boot, Flask, React  
-`AI/ML:` Scikit-learn, TensorFlow, spaCy, NLTK, BERT  
-`Tools:` Canva, Figma, VS Code, GitHub, Postman  
-`Cloud:` AWS, Firebase, Google Cloud  
-`Databases:` Oracle, MySQL, MongoDB  
----
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows_terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/premiere-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/aftereffects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberrypi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-![Meta](https://img.shields.io/badge/meta-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/nvidia-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
----
-
-
-
----
-
 # 💻 Tech Stack ⚡
 
 <p align="center">
@@ -193,18 +120,20 @@ Empowering coding education for Tier 2 & 3 colleges
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/your-link">
+<a href="https://www.linkedin.com/in/saikirantech">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/your-link">
+<a href="https://instagram.com/saikirantechy">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://youtube.com/@your-link">
+<a href="https://youtube.com/@saikirantech">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://twitter.com/your-link">
+<a href="https://twitter.com/saikirantechy">
   <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white"/>
 </a>
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCiUaGDPWVCpp3v5nWtc3PDQ">
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/saikirantechy">
 
 </p>
 
@@ -305,5 +234,15 @@ I'm always open to collaborating with **tech creators, startups, and student com
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saikirantechy) 
-
-
+  ## GitHub Sponsors
+**![GitHub Sponsors](https://img.shields.io/github/sponsors/saikirantech)
+**
+<div class="youtube-subscribe">
+  <div class="g-ytsubscribe"
+       data-channelid="UCiUaGDPWVCpp3v5nWtc3PDQ"
+       data-layout="full"
+       data-count="default"
+       data-theme="default">
+  </div>
+</div>
+<script src="https://apis.google.com/js/platform.js"></script>
