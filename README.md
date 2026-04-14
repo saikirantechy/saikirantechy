@@ -1,5 +1,9 @@
-# ⚡ Sai Kiran BK – Personal Portfolio
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Sai+Kiran+BK+(SaiKiranTech);AI+%7C+Full+Stack+Developer;Founder+%7C+Content+Creator;Building+SKT+Nexus+%F0%9F%94%A5;Empowering+Students+with+Tech" />
+</p>
 
+# ⚡ Sai Kiran BK – Personal Portfolio
+![](https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blueviolet&style=flat)
 **Promoting Tech Growth & Learning | Coding & AI Enthusiast | Founder – SKT Nexus & SKT Digital Marketing**  
 📍 India | 📧 saikiranbk.tech@gmail.com  
 🔗 [Linktree – All Platforms](https://linktr.ee/saikirantech)  
@@ -7,7 +11,8 @@
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saikirantechy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=saikirantechy&theme=onedark&no-frame=true&margin-w=10)
 
 ---
 ## 🧠 About Me
@@ -131,3 +136,7 @@ I'm always open to collaborating with **tech creators, startups, and student com
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/saikirantechy/saikirantechy/gh-pages/github-contribution-grid-snake.svg)
+## 📊 Contribution Graph
+
+[![Sai Kiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saikirantechy&theme=react-dark)](https://github.com/saikirantechy)
+
