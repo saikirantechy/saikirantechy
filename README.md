@@ -130,4 +130,4 @@ I'm always open to collaborating with **tech creators, startups, and student com
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/saikirantechy/saikirantechy/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/saikirantechy/saikirantechy/gh-pages/github-contribution-grid-snake.svg)
