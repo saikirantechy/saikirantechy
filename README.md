@@ -120,20 +120,35 @@ Empowering coding education for Tier 2 & 3 colleges
 
 <p align="center">
 
+<!-- 🔗 Social Links -->
+
 <a href="https://www.linkedin.com/in/saikirantech">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-5K%2B%20Connections-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/saikirantechy">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-10K%2B%20Followers-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://youtube.com/@saikirantech">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCiUaGDPWVCpp3v5nWtc3PDQ?style=flat-square&logo=youtube&color=FF0000"/>
 </a>
+
 <a href="https://twitter.com/saikirantechy">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/twitter/follow/saikirantechy?style=flat-square&logo=twitter"/>
 </a>
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCiUaGDPWVCpp3v5nWtc3PDQ">
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/saikirantechy">
+
+<a href="https://github.com/saikirantechy">
+  <img src="https://img.shields.io/github/followers/saikirantechy?style=flat-square&logo=github"/>
+</a>
+
+<br><br>
+
+<!-- 📊 Optional: Extra Social Proof -->
+
+<img src="https://img.shields.io/badge/Community-500%2B%20Students-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Workshops-15%2B%20Sessions-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Content-250%2B%20Videos-red?style=flat-square"/>
 
 </p>
 
