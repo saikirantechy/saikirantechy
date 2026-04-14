@@ -132,3 +132,4 @@ I'm always open to collaborating with **tech creators, startups, and student com
 <p align="center">
   <img src="https://github.com/saikirantechy/saikirantechy/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" style="border: 1px solid #c9c9cb; border-radius: 10px;">
 </p>
+![snake gif](https://github.com/saikirantechy/saikirantechy/blob/output/github-snake-dark.svg)
