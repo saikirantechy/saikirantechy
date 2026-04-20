@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Sai+Kiran+BK+(SaiKiranTech);AI+%7C+Full+Stack+Developer;Founder+%7C+Content+Creator;Building+SKT+Nexus+%F0%9F%94%A5;Empowering+Students+with+Tech" />
 </p>
 
-# ⚡ Sai Kiran BK – Personal Portfolio
+# ⚡ Sai Kiran BK
 ![](https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blueviolet&style=flat)
 
 **Promoting Tech Growth & Learning | Coding & AI Enthusiast | Founder – SKT Nexus & SKT Digital Marketing**  
