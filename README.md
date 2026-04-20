@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blueviolet&style=flat)
 
 **Promoting Tech Growth & Learning | Coding & AI Enthusiast | Founder – SKT Nexus & SKT Digital Marketing**  
-📍 India | 📧 saikiranbk.tech@gmail.com  
+📍 India | 📧 iamskt13@gmail.com  
 🔗 [Linktree – All Platforms](https://linktr.ee/saikirantech)  
 📸 [Instagram](https://instagram.com/saikirantechy) | 📺 [YouTube](https://youtube.com/@saikirantechy) | 💼 [LinkedIn](https://linkedin.com/in/saikirantechy) | 💻 [GitHub](https://github.com/saikirantechy)
 
