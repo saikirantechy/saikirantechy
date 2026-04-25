@@ -8,7 +8,7 @@
 **Promoting Tech Growth & Learning | Coding & AI Enthusiast | Founder – SKT Nexus & SKT Digital Marketing**  
 📍 India | 📧 iamskt13@gmail.com  
 🔗 [Linktree – All Platforms](https://linktr.ee/saikirantech)  
-📸 [Instagram](https://instagram.com/saikirantechy) | 📺 [YouTube](https://youtube.com/@saikirantechy) | 💼 [LinkedIn](https://linkedin.com/in/saikirantechy) | 💻 [GitHub](https://github.com/saikirantechy)
+📸 [Instagram](https://instagram.com/saikirantechy) | 📺 [YouTube](https://youtube.com/@saikirantech) | 💼 [LinkedIn](https://linkedin.com/in/saikirantech) | 💻 [GitHub](https://github.com/saikirantechy)
 
 ---
 ## 🏆 GitHub Trophies
@@ -20,7 +20,7 @@
 
 Hi there! I’m **Sai Kiran BK**, also known as **SaiKiranTech** – a passionate tech enthusiast, content creator, and founder. I create content to empower students in tech, especially from Tier 2 & Tier 3 colleges, with accessible resources in native languages.
 
-As the **Founder & CEO** of **SKT Digital Marketing** and **SKT Nexus**, I’m committed to bridging the digital education gap by offering **coding, AI/ML, and tech resources** tailored to aspiring students.
+As the **Founder & CEO** of **SKT Digital Marketing** and **SKT Nexus**, I’m committed to bridging the digital education gap by offering **coding, AI/ML and tech resources** tailored to aspiring students.
 
 I’m also a **motivational speaker**, having spoken at multiple colleges on topics like **career growth, mindset building**, and **AI trends**.
 
@@ -47,9 +47,9 @@ Empowering coding education for Tier 2 & 3 colleges
 
 - 250+ tech reels & videos on Instagram & YouTube  
 - Topics: Python, Web Dev, ML, Data Science, AI Trends  
-- 15+ tech workshops delivered  
+- 25+ tech workshops delivered  
 - Motivational talks in colleges  
-- Mentored 500+ students in bootcamps
+- Mentored 1000+ students in bootcamps
 
 ---
 
@@ -141,13 +141,11 @@ Empowering coding education for Tier 2 & 3 colleges
 <a href="https://github.com/saikirantechy">
   <img src="https://img.shields.io/github/followers/saikirantechy?style=flat-square&logo=github"/>
 </a>
-
 <br><br>
-
 <!-- 📊 Optional: Extra Social Proof -->
 
-<img src="https://img.shields.io/badge/Community-500%2B%20Students-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Workshops-15%2B%20Sessions-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Community-1000%2B%20Students-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Workshops-25%2B%20Sessions-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/Content-250%2B%20Videos-red?style=flat-square"/>
 
 </p>
@@ -203,9 +201,9 @@ Spring Boot + Oracle DB
 ## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width="37px">&nbsp;&nbsp; Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/saikirantechy" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="48" width="48"></a>
+<a href="https://linkedin.com/in/saikirantech" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="48" width="48"></a>
 <a href="https://twitter.com/saikirantechy" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" height="48" width="48"></a>
-<a href="mailto:saikiranbk.tech@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="48" width="48"></a>
+<a href="mailto:iamskt13@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="48" width="48"></a>
 <a href="https://github.com/saikirantechy" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="48" width="48"></a>
 <a href="https://linktr.ee/saikirantech" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/internet--v1.png" height="48" width="48"></a>
 </p>
@@ -215,9 +213,9 @@ Spring Boot + Oracle DB
 </p>
 <br>
 
-I'm always open to collaborating with **tech creators, startups, and student communities**.
+I'm always open to collaborating with **tech creators, startups and student communities**.
 
-📧 saikiranbk.tech@gmail.com  
+📧 iamskt13@gmail.com  
 🌐 [linktr.ee/saikirantech](https://linktr.ee/saikirantech)
 
 > “Together, we can inspire, innovate, and make a lasting impact.”  
