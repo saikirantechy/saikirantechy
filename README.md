@@ -251,30 +251,15 @@ I'm always open to collaborating with **tech creators, startups and student comm
   <img src="https://img.shields.io/github/followers/saikirantechy?style=for-the-badge&logo=github" alt="GitHub Followers" />
 </p>
 
----
-
-## 💰 Support My Work
-
 <p align="center">
   <a href="https://paypal.me/saikirantechy">
-    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    <img src="https://img.shields.io/badge/💰_Support_My_Work-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/github/sponsors/saikirantechy?style=for-the-badge&logo=github&color=pink&label=GitHub%20Sponsors" />
 </p>
-
----
-
-## ❤️ GitHub Sponsors
-
-<p align="center">
-  <img src="https://img.shields.io/github/sponsors/saikirantechy?style=for-the-badge&logo=github&color=pink" alt="GitHub Sponsors" />
-</p>
-
----
-
-## 📺 YouTube Channel
 
 <p align="center">
   <a href="https://youtube.com/@saikirantech">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCiUaGDPWVCpp3v5nWtc3PDQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20Subscribers" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCiUaGDPWVCpp3v5nWtc3PDQ?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
