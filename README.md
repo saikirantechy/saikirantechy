@@ -245,6 +245,12 @@ I'm always open to collaborating with **tech creators, startups and student comm
 ---
 [![](https://komarev.com/ghpvc/?username=saikirantechy&icon=0&color=0)]
 
+<p align="center">
+  <img src="https://user-badge.committers.top/india/saikirantechy.svg" />
+  <img src="https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/saikirantechy?style=for-the-badge&logo=github" />
+</p>
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saikirantechy) 
   ## GitHub Sponsors
