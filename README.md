@@ -4,12 +4,7 @@
 
 # ⚡ Sai Kiran BK
 ![](https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blueviolet&style=flat)
-<p align="center">
-  <a href="https://user-badge.committers.top/india/saikirantechy">
-    <img src="https://user-badge.committers.top/india/saikirantechy.svg" alt="Top Contributor India" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
+
 **Promoting Tech Growth & Learning | Coding & AI Enthusiast | Founder – SKT Nexus & SKT Digital Marketing**  
 📍 India | 📧 iamskt13@gmail.com  
 🔗 [Linktree – All Platforms](https://linktr.ee/saikirantech)  
