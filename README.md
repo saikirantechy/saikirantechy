@@ -243,25 +243,38 @@ I'm always open to collaborating with **tech creators, startups and student comm
 ![](https://github-contributor-stats.vercel.app/api?username=saikirantechy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=saikirantechy&icon=0&color=0)]
-
 <p align="center">
-  <img src="https://user-badge.committers.top/india/saikirantechy.svg" />
-  <img src="https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/saikirantechy?style=for-the-badge&logo=github" />
+  <a href="https://user-badge.committers.top/india/saikirantechy">
+    <img src="https://user-badge.committers.top/india/saikirantechy.svg" alt="Top Contributor India" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saikirantechy?style=for-the-badge&logo=github" alt="GitHub Followers" />
 </p>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saikirantechy) 
-  ## GitHub Sponsors
-**![GitHub Sponsors](https://img.shields.io/github/sponsors/saikirantech)
-**
-<div class="youtube-subscribe">
-  <div class="g-ytsubscribe"
-       data-channelid="UCiUaGDPWVCpp3v5nWtc3PDQ"
-       data-layout="full"
-       data-count="default"
-       data-theme="default">
-  </div>
-</div>
-<script src="https://apis.google.com/js/platform.js"></script>
+---
+
+## 💰 Support My Work
+
+<p align="center">
+  <a href="https://paypal.me/saikirantechy">
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ❤️ GitHub Sponsors
+
+<p align="center">
+  <img src="https://img.shields.io/github/sponsors/saikirantechy?style=for-the-badge&logo=github&color=pink" alt="GitHub Sponsors" />
+</p>
+
+---
+
+## 📺 YouTube Channel
+
+<p align="center">
+  <a href="https://youtube.com/@saikirantech">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCiUaGDPWVCpp3v5nWtc3PDQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20Subscribers" />
+  </a>
+</p>
