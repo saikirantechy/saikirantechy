@@ -4,16 +4,14 @@
 
 # ⚡ Sai Kiran BK
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <a href="https://github.com/sponsors/saikirantechy">
-    <img src="https://img.shields.io/badge/❤️%20Sponsor%20Me-GitHub%20Sponsors-DB61A2?style=flat&logo=githubsponsors&logoColor=white" alt="Sponsor Me" />
-  </a>
-</p>
-**Promoting Tech Growth & Learning | Coding & AI Enthusiast | Founder – SKT Nexus & SKT Digital Marketing**  
-📍 India | 📧 iamskt13@gmail.com  
-🔗 [Linktree – All Platforms](https://linktr.ee/saikirantech)  
-📸 [Instagram](https://instagram.com/saikirantechy) | 📺 [YouTube](https://youtube.com/@saikirantech) | 💼 [LinkedIn](https://linkedin.com/in/saikirantech) | 💻 [GitHub](https://github.com/saikirantechy)
+[![Profile Views](https://komarev.com/ghpvc/?username=saikirantechy&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/saikirantechy)
+[![Sponsor Me](https://img.shields.io/badge/❤️%20Sponsor%20Me-GitHub%20Sponsors-DB61A2?style=flat)](https://github.com/sponsors/saikirantechy)
+
+**Promoting Tech Growth & Learning | Coding & AI Enthusiast | Founder – SKT Nexus & SKT Digital Marketing**
+
+📍 India 🇮🇳 · 📧 [Email](mailto:iamskt13@gmail.com) · 🔗 [Linktree](https://linktr.ee/saikirantech) · 📸 [Instagram](https://instagram.com/saikirantechy) · ▶️ [YouTube](https://youtube.com/@saikirantech) · 💼 [LinkedIn](https://linkedin.com/in/saikirantech) · 💻 [GitHub](https://github.com/saikirantechy)
+
+---
 
 ---
 ## 🏆 GitHub Trophies
